@@ -1,0 +1,18 @@
+name = "DiffusionGarnet_3D"
+uuid = "b853c121-5e6e-4f18-9b13-41045e0b3d83"
+authors = ["Hugo Dominguez <hdomingu@uni-mainz.de>"]
+version = "0.1.0"
+
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+DiffusionGarnet = "d440471f-548d-4017-b306-a3be590dd0f0"
+Downloads = "f43a241f-c20a-4ad4-852c-f6b1247861c6"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+
+[compat]
+CUDA = "5.8.2"
+DiffusionGarnet = "0.2.4"
+Downloads = "1.6.0"
+JLD2 = "0.5.13"
+Printf = "1.11.0"

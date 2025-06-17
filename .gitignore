@@ -1,0 +1,12 @@
+Manifest.toml
+*.jl.*.cov
+*.txt
+*.jld2
+*.jl.cov
+*.jl.mem
+docs/build/
+.vscode/
+*.h5
+*.hdf5
+*.xdmf
+*.DS_Store
