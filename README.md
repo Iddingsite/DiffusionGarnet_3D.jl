@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15680919.svg)](https://doi.org/10.5281/zenodo.15680919)
 
 This repository contains the Julia scripts used to generate the data for the paper "Simulating major element diffusion in garnet using realistic 3D geometries" by Dominguez et al. (2025). They can be used to reproduce the results presented in the paper by running the scripts in the `scripts` directory.
 
