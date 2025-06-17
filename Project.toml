@@ -1,7 +1,7 @@
 name = "DiffusionGarnet_3D"
 uuid = "b853c121-5e6e-4f18-9b13-41045e0b3d83"
 authors = ["Hugo Dominguez <hdomingu@uni-mainz.de>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
