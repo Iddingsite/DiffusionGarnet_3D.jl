@@ -1,5 +1,5 @@
 
-This repository contains the Julia scripts used to generate the data for the paper [*Simulating major element diffusion in garnet using realistic 3D geometries*]. They can be used to reproduce the results presented in the paper by running the scripts in the `scripts` directory.
+This repository contains the Julia scripts used to generate the data for the paper "Simulating major element diffusion in garnet using realistic 3D geometries" by Dominguez et al. (2025). They can be used to reproduce the results presented in the paper by running the scripts in the `scripts` directory.
 
 ### Running the scripts
 
